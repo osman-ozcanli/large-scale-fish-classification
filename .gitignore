@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+klasorler/
+*.keras
+*.h5
+__pycache__/
+*.pyc
+.env
