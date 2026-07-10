@@ -14,6 +14,10 @@ Model hem macro avg hem de weighted avgde 0.94luk basari orani yakalamistir. Son
 ## Demo
 Hugging Face Spaces üzerinde canlı demo: [https://huggingface.co/spaces/Osman-Ozcanli/fish_species]
 
+### Sadece ilave degisiklik amacli
+Burada sadece branch olarak deneme amacli degisiklik yapilmistir, commit edilecek.
+Main den farkli bir branchdir ve tek degisiklik burada README.md kismindadir.
+
 
 
       
